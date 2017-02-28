@@ -25,7 +25,8 @@
 
 	body {
 		line-height: 1;
-		overflow-y: hidden; // Modifica
+		overflow-y: hidden; // Aggiunta
+		position: relative; // Aggiunta
 
 	}
 
