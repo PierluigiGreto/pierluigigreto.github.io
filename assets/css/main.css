@@ -25,6 +25,8 @@
 
 	body {
 		line-height: 1;
+		overflow-y: hidden; // Modifica
+
 	}
 
 	ol, ul {
